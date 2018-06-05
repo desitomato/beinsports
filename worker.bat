@@ -1,0 +1,1 @@
+celery worker --workdir=/full/path/to/middleware-folder --app=bein_sports

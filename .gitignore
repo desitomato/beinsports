@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+.idea
+=======
+/.idea/
+>>>>>>> 28cf98b0cb7a2dc85aaec506831400b806f4bca1
+*.pyc
+*.save
+/static
+logs/emam.*
